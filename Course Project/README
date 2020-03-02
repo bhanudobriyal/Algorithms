@@ -1,0 +1,5 @@
+Command to run the HamiltonianCycle.cpp
+1. Open terminal.
+2. go the location of HamiltonianCycle.cpp
+3. Type sudo g++ -o m HamiltonianCycle.cpp
+4. Type ./m .
